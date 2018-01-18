@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Symulacje", "Symulacje\Symulacje.vcxproj", "{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Debug|x64.ActiveCfg = Debug|x64
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Debug|x64.Build.0 = Debug|x64
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Debug|x86.Build.0 = Debug|Win32
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Release|x64.ActiveCfg = Release|x64
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Release|x64.Build.0 = Release|x64
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Release|x86.ActiveCfg = Release|Win32
+		{F31B2AD0-09DD-4C54-978E-DB74D8F632CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
